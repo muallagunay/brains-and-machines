@@ -1,1 +1,1 @@
-# Machine Learning for Neuroscience
+## Brains and Machines
